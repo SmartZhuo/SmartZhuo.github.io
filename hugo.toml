@@ -77,10 +77,6 @@ tocopen = false
   url = "https://x.com/"
 
   [[params.socialIcons]]
-  name = "stackoverflow"
-  url = "https://stackoverflow.com"
-
-  [[params.socialIcons]]
   name = "github"
   url = "https://github.com/"
 
@@ -119,28 +115,17 @@ name = "categories"
 url = "/categories/"
 weight = 10
 
-[[menu.main]]
-identifier = "tags"
-name = "tags"
-url = "/tags/"
-weight = 20
 
 [[menu.main]]
-identifier = "example"
-name = "example.org"
-url = "https://example.org"
+identifier = "Contact me"
+name = "Contect me"
+url = "www.linkedin.com/in/zhuo-wu-762383268"
 weight = 30
 
 [markup.highlight]
 noClasses = false
 
 
-[[params.socialIcons]]
-name = "Linkedin"
-url = "www.linkedin.com/in/zhuo-wu-762383268"
 
-[[params.socialIcons]]
-name = "Github"
-url = "<link2>"
 
 
