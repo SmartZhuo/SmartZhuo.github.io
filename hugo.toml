@@ -25,9 +25,6 @@ ShowShareButtons = true
 [Params]
 ShowReadingTime = true
 
-ShowToc = true
-TocOpen = true
-
 [params]
 ShowBreadCrumbs = true
 
