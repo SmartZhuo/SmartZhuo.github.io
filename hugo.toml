@@ -20,6 +20,7 @@ url = "<link2>"
 ShowShareButtons = true
 ShowReadingTime = true
 ShowBreadCrumbs = true
+comments = true
 
 
 [outputs]
