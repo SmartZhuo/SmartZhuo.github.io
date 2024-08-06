@@ -22,6 +22,9 @@ ShowReadingTime = true
 ShowBreadCrumbs = true
 comments = true
 
+[services]
+  [services.disqus]
+    shortname = 'your-disqus-shortname'
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
