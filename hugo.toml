@@ -3,4 +3,15 @@ languageCode = 'en-us'
 title = 'Zhuo Wu Blog'
 theme = 'PaperMod'
 
+[params.homeInfoParams]
+Title = "Hi there wave"
+Content = "Can be Info, links, about..."
+
+[[params.socialIcons]]
+name = "<platform>"
+url = "<link>"
+
+[[params.socialIcons]]
+name = "<platform 2>"
+url = "<link2>"
 
