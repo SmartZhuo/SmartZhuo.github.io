@@ -16,7 +16,7 @@ This is **Bold** text. This is *italics*
 
 
 cover:
-  image: "https://ashisheditz.com/wp-content/uploads/2023/11/nice-dp-pic-new.jpg"
+  image: "<https://ashisheditz.com/wp-content/uploads/2023/11/nice-dp-pic-new.jpg>"
   # can also paste direct link from external site
   # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
   alt: "<alt text>"
