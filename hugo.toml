@@ -22,6 +22,10 @@ ShowReadingTime = true
 ShowBreadCrumbs = true
 comments = true
 
+[params.cover]
+linkFullImages = true
+responsiveImages = false
+
 [services]
   [services.disqus]
     shortname = 'your-disqus-shortname'
