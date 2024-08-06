@@ -73,12 +73,8 @@ tocopen = false
   Content = "Welcome to my blog"
 
   [[params.socialIcons]]
-  name = "x"
+  name = "Linkedin"
   url = "https://x.com/"
-
-  [[params.socialIcons]]
-  name = "stackoverflow"
-  url = "https://stackoverflow.com"
 
   [[params.socialIcons]]
   name = "github"
@@ -126,9 +122,9 @@ url = "/tags/"
 weight = 20
 
 [[menu.main]]
-identifier = "example"
-name = "example.org"
-url = "https://example.org"
+identifier = "contact"
+name = "Contact me"
+url = "https://www.linkedin.com/in/zhuo-wu-762383268"
 weight = 30
 
 [markup.highlight]
