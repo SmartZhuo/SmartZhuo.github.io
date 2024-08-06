@@ -16,4 +16,18 @@ name = "Github"
 url = "<link2>"
 
 
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[params]
+ShowShareButtons = true
+
+[Params]
+ShowReadingTime = true
+
+ShowToc = true
+TocOpen = true
+
+[params]
+ShowBreadCrumbs = true
 
