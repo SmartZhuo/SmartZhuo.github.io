@@ -8,10 +8,10 @@ Title = "Welcome to my world"
 Content = "Self introduction"
 
 [[params.socialIcons]]
-name = "<Linkedin>"
-url = "<www.linkedin.com/in/zhuo-wu-762383268>"
+name = "Linkedin"
+url = "www.linkedin.com/in/zhuo-wu-762383268"
 
 [[params.socialIcons]]
-name = "<Github>"
+name = "Github"
 url = "<link2>"
 
