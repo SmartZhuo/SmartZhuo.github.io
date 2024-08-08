@@ -41,9 +41,7 @@ editPost:
 <p align="center" style="font-size:larger;"><strong>Enhanced ArUco Marker - X ArUco</strong></p>
 
 
-<div align="center">
-   ![X-ArUco](/mymarker1.png)
-</div>
+![Scenario 1: Across columns](/mymarker1.png)
 
 
 
@@ -61,3 +59,4 @@ Inspired by An [improved ArUco marker for monocular vision ranging](https://ieee
 
 See the opensource code:  
 https://github.com/SmartZhuo/Project-Thesis_FAU
+
