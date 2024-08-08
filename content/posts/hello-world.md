@@ -62,3 +62,4 @@ Inspired by An [improved ArUco marker for monocular vision ranging](https://ieee
 See the opensource code:  
 https://github.com/SmartZhuo/Project-Thesis_FAU
 
+![Scenario 1: Across columns](/mymarker1.png)
