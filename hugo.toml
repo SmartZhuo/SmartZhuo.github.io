@@ -1,5 +1,5 @@
 baseURL = "https://examplesite.com/"
-title = "Zhuos Blog"
+title = "Zhuo"
 paginate = 5
 theme = "PaperMod"
 enableRobotsTXT = true
