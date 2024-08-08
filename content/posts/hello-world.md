@@ -42,7 +42,7 @@ editPost:
 
 
 <div align="center">
-    <img src="https://github.com/SmartZhuo/Project-Thesis_FAU/blob/main/image/mymarker1.png?raw=true" alt="Statissc Badge" />
+   ![X-ArUco](/mymarker1.png)
 </div>
 
 
@@ -61,5 +61,3 @@ Inspired by An [improved ArUco marker for monocular vision ranging](https://ieee
 
 See the opensource code:  
 https://github.com/SmartZhuo/Project-Thesis_FAU
-
-![Scenario 1: Across columns](/mymarker1.png)
