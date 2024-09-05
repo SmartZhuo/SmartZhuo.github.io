@@ -1,5 +1,5 @@
 +++
-title = '(Begineer) 5 mins for Llama deployment(No GPU required)'
+title = '[LLM] (Begineer) 5 mins for Llama deployment(No GPU required)'
 date = 2024-09-04T11:43:23+02:00
 draft = false
 Tags =['LLM','LIama']

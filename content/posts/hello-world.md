@@ -1,9 +1,9 @@
 ---
-title: "X ArUco Marker"
+title: "[CV]X ArUco Marker"
 date: 2024-08-06T11:30:03+00:00
 # weight: 1
-# aliases: ["/first"]
-tags: ["first"]
+# aliases: ["CV"]
+tags: ["CV","ArUco"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
