@@ -12,7 +12,7 @@ Here is procedure in Windows
 
 ## 1 Install Ollama
 1.1 download and install Ollama 3.1  https://ollama.com/
-![描述](/1.png)
+![描述](/LLM1.png)
 ![Scenario 1: Across columns](/mymarker1.png)
 
 1.2    Choose the model
