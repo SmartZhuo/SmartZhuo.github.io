@@ -25,15 +25,13 @@ Here is procedure in Windows
         (If can not install, try to install previous version)
 
 2.2 go to openweb UI github to install session.
-
-    we have already installed docker and Ollima, simple to run following command in Shell
+      we have already installed docker and Ollima, simple to run following command in Shell
 
     docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main
 
 # 3. Open http://localhost:3000/
 3.1 choose the model of install 7b version. and you can communicate with AI locally.
-    
-    My laptop has low performance, therefore it is quite slow. 
+      My laptop has low performance, therefore it is quite slow. 
 
 # 4. 70b version
 Instead of local 7b version. we can install 70b version through Groq cloud.
