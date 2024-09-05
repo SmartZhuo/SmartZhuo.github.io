@@ -1,5 +1,5 @@
 +++
-title = '(Begineer) 5 mins for Llama deployment(No GPU)'
+title = '(Begineer) 5 mins for Llama deployment(No GPU required)'
 date = 2024-09-04T11:43:23+02:00
 draft = false
 +++
@@ -10,12 +10,13 @@ Here is procedure in Windows
 
 ## 1 Install Ollama
 1.1 download and install Ollama 3.1  https://ollama.com/
-![alt text](image.png)
+![Install Ollama](/LLM/1.png)
 
 1.2    Choose the model
+![Install Ollama](/LLM/2.png)
 
 1.3    There are 8b, 70b, 405b options. for self use, 8b is enough.
-
+![Install Ollama](/LLM/3.png)
 1.4   copy the comand to powersell to install the model
    
 
@@ -37,7 +38,7 @@ Instead of local 7b version. we can install 70b version through Groq cloud.
 4.2 choose API Key on left side 
 
 4.3 create API key and copy it(it only appears once, please store it)
-
+![Install Ollama](/LLM/4.3.png)
 4.4 Go back to http://localhost:3000/
 
 4.5 Click your account(down left) --> Admin panel --> setting --> connecion :
@@ -45,3 +46,4 @@ Instead of local 7b version. we can install 70b version through Groq cloud.
     API Key: you get from 4.3
 
 4.6 back to homepage, you have 70b and more version 
+![Install Ollama](/LLM/4-6.png)
