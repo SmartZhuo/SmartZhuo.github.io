@@ -14,6 +14,7 @@ Here is procedure in Windows
 1.1 download and install Ollama 3.1  https://ollama.com/
 ![描述](/LLM1.png)
 ![Scenario 1: Across columns](/mymarker1.png)
+<img src="image/2.png" class="img-responsive" alt=""> </div>
 
 1.2    Choose the model
 ![Install Ollama](/2.png)
