@@ -12,7 +12,8 @@ Here is procedure in Windows
 
 ## 1 Install Ollama
 1.1 download and install Ollama 3.1  https://ollama.com/
-![Install Ollama](/1.png)
+![描述](../image/1.png)
+
 
 1.2    Choose the model
 ![Install Ollama](/2.png)
