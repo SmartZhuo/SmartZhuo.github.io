@@ -4,12 +4,6 @@ date = 2024-09-04T11:43:23+02:00
 draft = false
 Tags =['LLM','LIama']
 
-cover:
-    image: "https://github.com/SmartZhuo/Project-Thesis_FAU/blob/main/image/mymarker1.png?raw=true" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: false # only hide on current single page
 +++
 
 
