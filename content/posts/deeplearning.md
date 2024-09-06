@@ -1,5 +1,5 @@
 ---
-title: "PointNetLK for Point Cloud Registration"
+title: "[CV]PointNetLK for Point Cloud Registration"
 date: 2024-08-06T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
